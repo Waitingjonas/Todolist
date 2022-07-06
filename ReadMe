@@ -1,3 +1,6 @@
+npm init
+install dependencies
+
 Mongoose databas.
 Startas genom att skriva: "mongod", "mongo" i två olika flikar i terminalen.
 Servern startas: "node app.js" eller "nodemon app.js".
